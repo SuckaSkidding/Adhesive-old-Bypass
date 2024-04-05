@@ -6,3 +6,5 @@ Hey , today im releasing a fivem stuff that was made from xo1337( so all credits
 so basically it's just a stuff that replace exception handler in ntdll , so you can patch some bytes how you want and replace with original bytes ( without adhesive ) , a old bad version of this one was leaked by xo1337 also but i think this one is better
 
 if you sell this just fuck yourself
+
+discord : sucka2992
